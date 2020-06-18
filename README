@@ -46,4 +46,5 @@ sudo cp ./target/release/hashy /usr/bin/
 ```
 
 ### Usage
+![Alt text](./media/usage.svg)
 <img src="./medai/usage.svg">
