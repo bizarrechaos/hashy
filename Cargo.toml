@@ -1,0 +1,11 @@
+[package]
+name = "hashy"
+version = "0.1.0"
+authors = ["bizarrechaos <bcarter63@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+sha-1 = "0.8.1"
+md-5 = "0.8.0"
+sha2 = "0.8.0"
+ssdeep = "0.2.0"
