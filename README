@@ -46,4 +46,9 @@ sudo cp ./target/release/hashy /usr/bin/
 ```
 
 ### Usage
-<a href="https://asciinema.org/a/Ov8vSYAtuvBdJGvmE1lnmBMWd" target="_blank"><img src="https://asciinema.org/a/Ov8vSYAtuvBdJGvmE1lnmBMWd.svg" /></a>
+<div>
+    <img src="usage.svg"
+         alt="usage"
+         height="150px"
+         align="right">
+</div>

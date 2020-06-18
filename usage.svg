@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="terminal" baseProfile="full" viewBox="0 0 1528 937" width="1528" version="1.1">
+    <defs>
+        <termtosvg:template_settings xmlns:termtosvg="https://github.com/nbedos/termtosvg">
+            <termtosvg:screen_geometry columns="191" rows="55"/>
+            <termtosvg:animation type="css"/>
+        </termtosvg:template_settings>
+        <style type="text/css" id="generated-style"><![CDATA[#screen {
+                font-family: 'DejaVu Sans Mono', monospace;
+                font-style: normal;
+                font-size: 14px;
+            }
+
+        text {
+            dominant-baseline: text-before-edge;
+            white-space: pre;
+        }
+    
+            :root {
+                --animation-duration: 4122ms;
+            }
+
+            @keyframes roll {
+                0.000%{transform:translateY(0px)}
+23.023%{transform:translateY(-952px)}
+37.263%{transform:translateY(-1904px)}
+37.482%{transform:translateY(-2856px)}
+54.731%{transform:translateY(-3808px)}
+60.408%{transform:translateY(-4760px)}
+64.386%{transform:translateY(-5712px)}
+69.748%{transform:translateY(-6664px)}
+75.619%{transform:translateY(-7616px)}
+75.740%{transform:translateY(-8568px)}
+100.000%{transform:translateY(-8568px)}
+            }
+
+            #screen_view {
+                animation-duration: 4122ms;
+                animation-iteration-count:infinite;
+                animation-name:roll;
+                animation-timing-function: steps(1,end);
+                animation-fill-mode: forwards;
+            }
+        ]]></style>
+        <style type="text/css" id="user-style">
+            /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
+               them as needed.
+               PowerShell colors based on https://en.wikipedia.org/wiki/ANSI_escape_code#Colors */
+            .foreground {fill: #cccccc;}
+            .background {fill: #0c0c0c;}
+            .color0 {fill: #0c0c0c;}
+            .color1 {fill: #c50f1f;}
+            .color2 {fill: #13a10e;}
+            .color3 {fill: #c19c00;}
+            .color4 {fill: #0037da;}
+            .color5 {fill: #881798;}
+            .color6 {fill: #3a96dd;}
+            .color7 {fill: #cccccc;}
+            .color8 {fill: #767676;}
+            .color9 {fill: #e74856;}
+            .color10 {fill: #16c60c;}
+            .color11 {fill: #f9f1a5;}
+            .color12 {fill: #3b78ff;}
+            .color13 {fill: #b4009e;}
+            .color14 {fill: #61d6d6;}
+            .color15 {fill: #f2f2f2;}
+        </style>
+    </defs>
+    <svg id="screen" width="1528" height="935" viewBox="0 0 1528 935" preserveAspectRatio="xMidYMin slice">
+    <rect class="background" height="100%" width="100%" x="0" y="0"/><defs><g id="g1"><text x="0" textLength="152" font-weight="bold" class="color10">[bizarrechaos@xps13</text><text x="152" textLength="16" font-weight="bold" class="color15"> ~</text><text x="168" textLength="16" font-weight="bold" class="color10">]$</text><text x="184" textLength="8" class="foreground"> </text><text x="192" textLength="8" class="background"> </text></g><g id="g2"><text x="0" textLength="152" font-weight="bold" class="color10">[bizarrechaos@xps13</text><text x="152" textLength="16" font-weight="bold" class="color15"> ~</text><text x="168" textLength="16" font-weight="bold" class="color10">]$</text><text x="184" textLength="144" class="foreground"> hashy /usr/bin/ls</text><text x="328" textLength="8" class="background"> </text></g><g id="g3"><text x="0" textLength="152" font-weight="bold" class="color10">[bizarrechaos@xps13</text><text x="152" textLength="16" font-weight="bold" class="color15"> ~</text><text x="168" textLength="16" font-weight="bold" class="color10">]$</text><text x="184" textLength="144" class="foreground"> hashy /usr/bin/ls</text></g><g id="g4"><text x="0" textLength="8" class="background"> </text></g><g id="g5"><text x="0" textLength="152" class="foreground">File:   /usr/bin/ls</text></g><g id="g6"><text x="0" textLength="320" class="foreground">MD5:    27ac5e2f7573020dbff16b3b9c03e678</text></g><g id="g7"><text x="0" textLength="384" class="foreground">SHA1:   0ca5dcdf79d00cbc893a5cca29695f2afddc193d</text></g><g id="g8"><text x="0" textLength="576" class="foreground">SHA256: f8b09fba9fda9ffebae86611261cf628bd71022fb4348d876974f7c48ddcc6d5</text></g><g id="g9"><text x="0" textLength="1088" class="foreground">SHA512: 4ec188a733c402e277f60d59240aba3279b2fdc261ac479188a28aab899b81be4281283988ccbf78f7ca214eb3fbfb49811743ccdb62a459a52414075e9eae8f</text></g><g id="g10"><text x="0" textLength="544" class="foreground">SSDEEP: 3072:+8/r5+F63Fi9qlSZbzzGCjNiabOo6617sqTT1:+a1SZbWCj9bOo6m7h</text></g><g id="g11"><text x="0" textLength="152" font-weight="bold" class="color10">[bizarrechaos@xps13</text><text x="152" textLength="16" font-weight="bold" class="color15"> ~</text><text x="168" textLength="16" font-weight="bold" class="color10">]$</text><text x="184" textLength="16" class="foreground"> e</text><text x="200" textLength="8" class="background"> </text></g><g id="g12"><text x="0" textLength="152" font-weight="bold" class="color10">[bizarrechaos@xps13</text><text x="152" textLength="16" font-weight="bold" class="color15"> ~</text><text x="168" textLength="16" font-weight="bold" class="color10">]$</text><text x="184" textLength="24" class="foreground"> ex</text><text x="208" textLength="8" class="background"> </text></g><g id="g13"><text x="0" textLength="152" font-weight="bold" class="color10">[bizarrechaos@xps13</text><text x="152" textLength="16" font-weight="bold" class="color15"> ~</text><text x="168" textLength="16" font-weight="bold" class="color10">]$</text><text x="184" textLength="32" class="foreground"> exi</text><text x="216" textLength="8" class="background"> </text></g><g id="g14"><text x="0" textLength="152" font-weight="bold" class="color10">[bizarrechaos@xps13</text><text x="152" textLength="16" font-weight="bold" class="color15"> ~</text><text x="168" textLength="16" font-weight="bold" class="color10">]$</text><text x="184" textLength="40" class="foreground"> exit</text><text x="224" textLength="8" class="background"> </text></g><g id="g15"><text x="0" textLength="152" font-weight="bold" class="color10">[bizarrechaos@xps13</text><text x="152" textLength="16" font-weight="bold" class="color15"> ~</text><text x="168" textLength="16" font-weight="bold" class="color10">]$</text><text x="184" textLength="40" class="foreground"> exit</text></g><g id="g16"><text x="0" textLength="32" class="foreground">exit</text></g></defs><g id="screen_view"><g><rect x="192" y="0" width="8" height="17" class="foreground"/><use xlink:href="#g1" y="0"/></g><g><rect x="328" y="952" width="8" height="17" class="foreground"/><use xlink:href="#g2" y="952"/></g><g><use xlink:href="#g3" y="1904"/><rect x="0" y="1921" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="1921"/></g><g><use xlink:href="#g3" y="2856"/><use xlink:href="#g5" y="2873"/><use xlink:href="#g6" y="2890"/><use xlink:href="#g7" y="2907"/><use xlink:href="#g8" y="2924"/><use xlink:href="#g9" y="2941"/><use xlink:href="#g10" y="2958"/><rect x="192" y="2975" width="8" height="17" class="foreground"/><use xlink:href="#g1" y="2975"/></g><g><use xlink:href="#g3" y="3808"/><use xlink:href="#g5" y="3825"/><use xlink:href="#g6" y="3842"/><use xlink:href="#g7" y="3859"/><use xlink:href="#g8" y="3876"/><use xlink:href="#g9" y="3893"/><use xlink:href="#g10" y="3910"/><rect x="200" y="3927" width="8" height="17" class="foreground"/><use xlink:href="#g11" y="3927"/></g><g><use xlink:href="#g3" y="4760"/><use xlink:href="#g5" y="4777"/><use xlink:href="#g6" y="4794"/><use xlink:href="#g7" y="4811"/><use xlink:href="#g8" y="4828"/><use xlink:href="#g9" y="4845"/><use xlink:href="#g10" y="4862"/><rect x="208" y="4879" width="8" height="17" class="foreground"/><use xlink:href="#g12" y="4879"/></g><g><use xlink:href="#g3" y="5712"/><use xlink:href="#g5" y="5729"/><use xlink:href="#g6" y="5746"/><use xlink:href="#g7" y="5763"/><use xlink:href="#g8" y="5780"/><use xlink:href="#g9" y="5797"/><use xlink:href="#g10" y="5814"/><rect x="216" y="5831" width="8" height="17" class="foreground"/><use xlink:href="#g13" y="5831"/></g><g><use xlink:href="#g3" y="6664"/><use xlink:href="#g5" y="6681"/><use xlink:href="#g6" y="6698"/><use xlink:href="#g7" y="6715"/><use xlink:href="#g8" y="6732"/><use xlink:href="#g9" y="6749"/><use xlink:href="#g10" y="6766"/><rect x="224" y="6783" width="8" height="17" class="foreground"/><use xlink:href="#g14" y="6783"/></g><g><use xlink:href="#g3" y="7616"/><use xlink:href="#g5" y="7633"/><use xlink:href="#g6" y="7650"/><use xlink:href="#g7" y="7667"/><use xlink:href="#g8" y="7684"/><use xlink:href="#g9" y="7701"/><use xlink:href="#g10" y="7718"/><use xlink:href="#g15" y="7735"/><rect x="0" y="7752" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="7752"/></g><g><use xlink:href="#g3" y="8568"/><use xlink:href="#g5" y="8585"/><use xlink:href="#g6" y="8602"/><use xlink:href="#g7" y="8619"/><use xlink:href="#g8" y="8636"/><use xlink:href="#g9" y="8653"/><use xlink:href="#g10" y="8670"/><use xlink:href="#g15" y="8687"/><use xlink:href="#g16" y="8704"/><rect x="0" y="8721" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="8721"/></g></g></svg>
+</svg>
