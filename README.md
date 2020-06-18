@@ -1,4 +1,4 @@
-# Project Title
+# hashy
 
 hashy is a command line tool that, when ran and given a filepath as an argument, will return multiple hashes for the file.
 Supported hashes are md5, sha1, sha256, sha512, and ssdeep.
