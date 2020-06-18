@@ -46,9 +46,5 @@ sudo cp ./target/release/hashy /usr/bin/
 ```
 
 ### Usage
-<div>
-    <img src="usage.svg"
-         alt="usage"
-         height="150px"
-         align="right">
-</div>
+
+![Example](./usage.svg)
