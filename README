@@ -46,4 +46,4 @@ sudo cp ./target/release/hashy /usr/bin/
 ```
 
 ### Usage
-[![asciicast](https://asciinema.org/a/Ov8vSYAtuvBdJGvmE1lnmBMWd.svg)](https://asciinema.org/a/Ov8vSYAtuvBdJGvmE1lnmBMWd)
+<a href="https://asciinema.org/a/Ov8vSYAtuvBdJGvmE1lnmBMWd" target="_blank"><img src="https://asciinema.org/a/Ov8vSYAtuvBdJGvmE1lnmBMWd.svg" /></a>
